@@ -10,8 +10,7 @@ A classic Snake Game built using Python.
 ## Technologies
 - Python
 
-## How to Run
-```bash
+
 python snake.py
  https://github.com/Programmer-Shahzaib/Snake-game.git
 git push -u origin main
