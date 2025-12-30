@@ -1,7 +1,17 @@
-echo "# Snake-game" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Programmer-Shahzaib/Snake-game.git
+# Snake Game 🐍
+
+A classic Snake Game built using Python.
+
+## Features
+- Smooth gameplay
+- Score tracking
+- Keyboard controls
+
+## Technologies
+- Python
+
+## How to Run
+```bash
+python snake.py
+ https://github.com/Programmer-Shahzaib/Snake-game.git
 git push -u origin main
